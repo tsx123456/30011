@@ -1,0 +1,90 @@
+
+free_finish.png
+size: 1802,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tw_a
+  rotate: false
+  xy: 2, 226
+  size: 367, 500
+  orig: 367, 500
+  offset: 0, 0
+  index: -1
+tw_a_02
+  rotate: true
+  xy: 720, 267
+  size: 459, 341
+  orig: 459, 341
+  offset: 0, 0
+  index: -1
+tw_a_03
+  rotate: true
+  xy: 1063, 287
+  size: 439, 322
+  orig: 439, 322
+  offset: 0, 0
+  index: -1
+tw_bg
+  rotate: true
+  xy: 2, 4
+  size: 220, 477
+  orig: 220, 477
+  offset: 0, 0
+  index: -1
+tw_bg_02
+  rotate: true
+  xy: 1387, 13
+  size: 364, 341
+  orig: 364, 341
+  offset: 0, 0
+  index: -1
+tw_cock
+  rotate: true
+  xy: 1387, 379
+  size: 347, 413
+  orig: 347, 416
+  offset: 0, 0
+  index: -1
+tw_money_01
+  rotate: true
+  xy: 1111, 36
+  size: 145, 138
+  orig: 147, 140
+  offset: 1, 1
+  index: -1
+tw_money_02
+  rotate: false
+  xy: 1251, 38
+  size: 128, 143
+  orig: 130, 145
+  offset: 1, 1
+  index: -1
+tw_money_03
+  rotate: false
+  xy: 1111, 183
+  size: 220, 102
+  orig: 222, 103
+  offset: 0, 0
+  index: -1
+tw_vfx_a_screen
+  rotate: false
+  xy: 371, 249
+  size: 347, 477
+  orig: 347, 477
+  offset: 0, 0
+  index: -1
+tw_vfx_b_screen
+  rotate: false
+  xy: 481, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+tw_vfx_c_add
+  rotate: true
+  xy: 728, 4
+  size: 261, 381
+  orig: 261, 381
+  offset: 0, 0
+  index: -1
