@@ -1,460 +1,488 @@
 
-tishipai.png
-size: 2020,1736
+tishipai.jpg
+size: 2068,1847
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 info_board_a
-  rotate: false
-  xy: 2, 1495
+  rotate: true
+  xy: 115, 814
   size: 514, 110
   orig: 514, 110
   offset: 0, 0
   index: -1
+info_board_a1
+  rotate: true
+  xy: 2, 813
+  size: 515, 111
+  orig: 515, 111
+  offset: 0, 0
+  index: -1
 info_board_b_01
-  rotate: false
-  xy: 518, 1531
+  rotate: true
+  xy: 213, 375
   size: 437, 120
   orig: 437, 120
   offset: 0, 0
   index: -1
+info_board_b_01_1
+  rotate: true
+  xy: 213, 1407
+  size: 438, 121
+  orig: 438, 121
+  offset: 0, 0
+  index: -1
 info_board_b_02
-  rotate: false
-  xy: 518, 1653
+  rotate: true
+  xy: 131, 1331
   size: 514, 80
   orig: 514, 80
   offset: 0, 0
   index: -1
+info_board_b_02_1
+  rotate: true
+  xy: 2, 296
+  size: 515, 81
+  orig: 515, 81
+  offset: 0, 0
+  index: -1
 info_board_c
-  rotate: false
-  xy: 2, 1607
+  rotate: true
+  xy: 85, 297
   size: 514, 126
   orig: 514, 126
   offset: 0, 0
   index: -1
+info_board_c_1
+  rotate: true
+  xy: 2, 1330
+  size: 515, 127
+  orig: 515, 127
+  offset: 0, 0
+  index: -1
 info_board_vfx_a_screen_00
-  rotate: false
-  xy: 2, 1289
+  rotate: true
+  xy: 278, 6
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_01
-  rotate: false
-  xy: 2, 1083
+  rotate: true
+  xy: 227, 1038
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_02
   rotate: false
-  xy: 2, 877
+  xy: 325, 832
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_03
-  rotate: false
-  xy: 2, 671
+  rotate: true
+  xy: 336, 1478
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_04
-  rotate: false
-  xy: 2, 465
+  rotate: true
+  xy: 433, 1109
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_05
-  rotate: false
-  xy: 2, 259
+  rotate: true
+  xy: 542, 1478
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_06
-  rotate: false
-  xy: 2, 53
+  rotate: true
+  xy: 639, 1109
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_07
   rotate: true
-  xy: 371, 1126
+  xy: 748, 1478
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_08
   rotate: true
-  xy: 371, 757
+  xy: 335, 463
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_09
   rotate: true
-  xy: 371, 388
+  xy: 541, 463
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_10
   rotate: true
-  xy: 371, 19
+  xy: 484, 7
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_11
   rotate: false
-  xy: 577, 1325
+  xy: 694, 903
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_12
-  rotate: false
-  xy: 577, 1119
+  rotate: true
+  xy: 845, 1109
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_13
-  rotate: false
-  xy: 577, 913
+  rotate: true
+  xy: 954, 1478
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_14
-  rotate: false
-  xy: 577, 707
+  rotate: true
+  xy: 1051, 1109
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_15
-  rotate: false
-  xy: 577, 501
+  rotate: true
+  xy: 1160, 1478
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_16
-  rotate: false
-  xy: 577, 295
+  rotate: true
+  xy: 690, 94
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_17
-  rotate: false
-  xy: 577, 89
+  rotate: true
+  xy: 747, 534
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_18
-  rotate: false
-  xy: 1034, 1529
+  rotate: true
+  xy: 896, 165
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_a_screen_19
-  rotate: false
-  xy: 1403, 1529
+  rotate: true
+  xy: 953, 534
   size: 367, 204
   orig: 367, 204
   offset: 0, 0
   index: -1
 info_board_vfx_b_screen
   rotate: false
-  xy: 577, 2
+  xy: 335, 376
   size: 275, 85
   orig: 275, 85
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_00
   rotate: false
-  xy: 946, 1185
+  xy: 1063, 937
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_01
-  rotate: false
-  xy: 1315, 1357
+  rotate: true
+  xy: 1159, 629
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_02
-  rotate: false
-  xy: 946, 1013
+  rotate: true
+  xy: 1274, 321
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_03
-  rotate: false
-  xy: 1254, 1185
+  rotate: true
+  xy: 1331, 629
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_04
-  rotate: false
-  xy: 946, 841
+  rotate: true
+  xy: 1446, 321
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_05
   rotate: false
-  xy: 1254, 1013
+  xy: 1484, 11
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_06
   rotate: false
-  xy: 946, 669
+  xy: 1618, 1675
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_07
   rotate: false
-  xy: 1254, 841
+  xy: 1618, 1503
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_08
   rotate: false
-  xy: 946, 497
+  xy: 1618, 1331
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_09
   rotate: false
-  xy: 1254, 669
+  xy: 1618, 1159
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_10
   rotate: false
-  xy: 946, 325
+  xy: 1618, 987
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_11
   rotate: false
-  xy: 1254, 497
+  xy: 1618, 815
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_12
   rotate: false
-  xy: 946, 153
+  xy: 1618, 643
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_13
   rotate: false
-  xy: 946, 153
+  xy: 1618, 643
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_c_screen_14
   rotate: false
-  xy: 946, 153
+  xy: 1618, 643
   size: 306, 170
   orig: 306, 170
   offset: 0, 0
   index: -1
 info_board_vfx_d_add
   rotate: true
-  xy: 1254, 128
+  xy: 1257, 1109
   size: 367, 107
   orig: 367, 107
   offset: 0, 0
   index: -1
 info_board_vfx_e_screen_00
   rotate: true
-  xy: 1623, 1357
+  xy: 1792, 11
   size: 170, 136
   orig: 170, 136
   offset: 0, 0
   index: -1
 info_board_vfx_e_screen_01
   rotate: true
-  xy: 1363, 31
+  xy: 1618, 333
   size: 170, 136
   orig: 170, 136
   offset: 0, 0
   index: -1
 info_board_vfx_e_screen_02
   rotate: false
-  xy: 1501, 61
+  xy: 1756, 367
   size: 170, 136
   orig: 170, 136
   offset: 0, 0
   index: -1
 info_board_vfx_e_screen_03
   rotate: false
-  xy: 1673, 43
+  xy: 1371, 1709
   size: 170, 136
   orig: 170, 136
   offset: 0, 0
   index: -1
 info_board_vfx_e_screen_04
   rotate: false
-  xy: 1845, 43
+  xy: 1371, 1571
   size: 170, 136
   orig: 170, 136
   offset: 0, 0
   index: -1
 info_board_vfx_f_screen
   rotate: true
-  xy: 1910, 1514
+  xy: 227, 817
   size: 219, 96
   orig: 219, 96
   offset: 0, 0
   index: -1
 info_board_vfx_g_screen
-  rotate: false
-  xy: 946, 1357
+  rotate: true
+  xy: 1102, 165
   size: 367, 170
   orig: 367, 170
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_00
   rotate: true
-  xy: 1363, 203
+  xy: 2, 2
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_01
-  rotate: false
-  xy: 946, 15
+  rotate: true
+  xy: 140, 3
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_02
-  rotate: true
-  xy: 1562, 1063
+  rotate: false
+  xy: 896, 27
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_03
-  rotate: true
-  xy: 1562, 769
+  rotate: false
+  xy: 1190, 27
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_04
-  rotate: true
-  xy: 1562, 475
+  rotate: false
+  xy: 1274, 183
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_05
-  rotate: true
-  xy: 1700, 1063
+  rotate: false
+  xy: 1568, 183
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_06
   rotate: true
-  xy: 1700, 769
+  xy: 1930, 1553
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_07
   rotate: true
-  xy: 1700, 475
+  xy: 1930, 1259
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_08
-  rotate: false
-  xy: 1501, 337
+  rotate: true
+  xy: 1930, 965
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_09
-  rotate: false
-  xy: 1501, 199
+  rotate: true
+  xy: 1930, 671
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_10
   rotate: true
-  xy: 1772, 1441
+  xy: 1930, 377
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_11
   rotate: true
-  xy: 1772, 1441
+  xy: 1930, 377
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_12
   rotate: true
-  xy: 1795, 181
+  xy: 1930, 83
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_13
-  rotate: true
-  xy: 1838, 1147
+  rotate: false
+  xy: 1618, 505
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_14
   rotate: true
-  xy: 1838, 853
+  xy: 1371, 1277
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_15
   rotate: true
-  xy: 1838, 853
+  xy: 1371, 1277
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
   index: -1
 info_board_vfx_h_screen_16
   rotate: true
-  xy: 1838, 559
+  xy: 1371, 983
   size: 292, 136
   orig: 292, 136
   offset: 0, 0
